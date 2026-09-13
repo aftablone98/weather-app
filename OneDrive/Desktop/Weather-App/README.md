@@ -167,8 +167,6 @@ This project is licensed under the MIT License.
 Computer Science Graduate | DevOps Engineer | Front-End Developer
 
 - GitHub: https://github.com/aftablone98
-- https://www.linkedin.com/in/aftablone/
-
 
 
 ---
